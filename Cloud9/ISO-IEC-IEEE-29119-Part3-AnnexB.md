@@ -102,7 +102,7 @@ iii) Ưu tiên | Bắt buộc phải có
 iv) Truy xuất nguồn gốc | Bắt buộc phải có 
 **B.1.7 Đặc tả ca kiểm thử** | Bắt buộc phải có
 a, Hạng mục bao phủ kiểm thử | Bắt buộc phải có
-i. Nhận dạng tính độc đáo | Bắt buộc phải có
+i. Định danh duy nhất | Bắt buộc phải có
 ii. Mô tả | Bắt buộc phải có
 iii. Độ ưu tiên | Bắt buộc phải có
 iv. Truy tìm nguồn gốc | Bắt buộc phải có
@@ -117,7 +117,7 @@ vii. Kết quả dự kiến | Bắt buộc phải có
 viii. Kết quả thực tế và kết quả kiểm thử | Bắt buộc phải có
 **B.1.8 Đặc tả quy trình kiểm thử** | Bắt buộc phải có
 a, Bộ dữ liệu kiểm thử | Bắt buộc phải có
-i. Nhận dạng độc đáo | Bắt buộc phải có
+i. Định danh duy nhất | Bắt buộc phải có
 ii.  Mục tiêu | Bắt buộc phải có
 iii. Độ ưu tiên | Bắt buộc phải có
 iv. Nội dung (Truy xuất nguồn gốc) | Bắt buộc phải có
