@@ -45,8 +45,8 @@ viii) Kiểm thử lại và kiểm thử hồi quy | Có thể có hoặc khôn
 **B.1.3 Kế hoạch kiểm thử** | Bắt buộc phải có
 a) Ngữ cảnh của kiểm thử: | Bắt buộc phải có
 i) Dự án/kiểm thử quá trình con | Bắt buộc phải có
-ii) Kiểm thử mục | Bắt buộc phải có
-iii) Kiểm thử phạm vi | Bắt buộc phải có
+ii) Mục kiểm thử | Bắt buộc phải có
+iii) Phạm vi kiểm thử | Bắt buộc phải có
 iv) Giả định và hạn chế | Nên có
 v) Các bên liên quan | Nên có
 b) Kiểm thử truyền thông: | Nên có
